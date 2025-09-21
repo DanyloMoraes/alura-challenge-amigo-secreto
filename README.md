@@ -7,6 +7,7 @@
 ## Índice
 
 * [Descrição do Projeto](#descrição-do-projeto)
+* [Acesso ao Projeto](#acesso-ao-projeto)
 * [Tecnologias Utilizadas](#tecnologias-utilizadas)
 * [Autor](#autor)
 
@@ -17,6 +18,10 @@ Este projeto sorteia um nome de amigo de forma aleatória em uma lista que você
 > Este projeto faz parte do **Challenge da Alura**.
 
 ![Imagem ilustrativa demonstrando o funcionamento do projeto](/assets/amigo-secreto-funcionamento.JPG)
+
+## Acesso ao Projeto
+
+Você pode [acessar o projeto](https://danylomoraes.github.io/alura-challenge-amigo-secreto/) e vê-lo funcionando no seu navegador.
 
 ## Tecnologias Utilizadas
 
